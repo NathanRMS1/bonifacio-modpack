@@ -170,7 +170,11 @@ key_key.doom.yeethook:key.keyboard.v
 key_key.durabilityviewer.showhide:key.keyboard.h
 key_key.entityculling.toggle:key.keyboard.unknown
 key_Show comparison tooltip:key.keyboard.left.shift
+key_key.extraalchemy.magnetism_toggle:key.keyboard.n
+key_key.extraalchemy.potion_bag_mode:key.keyboard.k
+key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.y
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.k
+key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.origins.arcanite_toggle:key.keyboard.unknown
@@ -179,6 +183,7 @@ key_key.origins.quaternary_active:key.keyboard.unknown
 key_key.guild.quest_screen:key.keyboard.j
 key_key.haema.dash:key.keyboard.z
 key_key.indrev.modular:key.keyboard.unknown
+key_option.skip:key.keyboard.right
 key_key.inmis.open_backpack:key.keyboard.b
 key_key.inventoryhud.toggle:key.keyboard.i
 key_key.inventoryhud.openconfig:key.keyboard.o
@@ -187,11 +192,11 @@ key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.modern_industrialization.activate:key.keyboard.v
-key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_key.mtmechs.primary:key.keyboard.v
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
+key_key.petowner.hide:key.keyboard.unknown
 key_key.rpgstats.open_gui:key.keyboard.unknown
 key_key.the_bumblezone.beehemoth_up:key.keyboard.space
 key_key.the_bumblezone.beehemoth_down:key.keyboard.caps.lock
