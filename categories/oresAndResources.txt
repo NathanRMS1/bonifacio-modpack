@@ -1,1 +1,3 @@
 https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores
+curseforge.com/minecraft/mc-mods/ore-tree-reborn-fabric
+https://www.curseforge.com/minecraft/mc-mods/the-extractinator

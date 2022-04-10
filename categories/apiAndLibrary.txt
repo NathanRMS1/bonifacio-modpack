@@ -1,1 +1,6 @@
 https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
+https://www.curseforge.com/minecraft/mc-mods/lib
+https://www.curseforge.com/minecraft/mc-mods/bclib
+https://www.curseforge.com/minecraft/mc-mods/fireplace-lib
+https://www.curseforge.com/minecraft/mc-mods/reborncore
+https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api
