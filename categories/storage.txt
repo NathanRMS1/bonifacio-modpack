@@ -1,2 +1,8 @@
 https://www.curseforge.com/minecraft/mc-mods/slotlink
 https://www.curseforge.com/minecraft/mc-mods/urns
+https://www.curseforge.com/minecraft/mc-mods/ae2things
+https://www.curseforge.com/minecraft/mc-mods/dank-storage-fabric
+https://www.curseforge.com/minecraft/mc-mods/storage-cabinet
+https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fabric
+https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric
+https://www.curseforge.com/minecraft/mc-mods/cammies-wearable-backpacks

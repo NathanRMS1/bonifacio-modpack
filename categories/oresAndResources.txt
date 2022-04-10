@@ -1,3 +1,10 @@
 https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores
-curseforge.com/minecraft/mc-mods/ore-tree-reborn-fabric
+https://www.curseforge.com/minecraft/mc-mods/ore-tree-reborn-fabric
 https://www.curseforge.com/minecraft/mc-mods/the-extractinator
+https://www.curseforge.com/minecraft/mc-mods/mythicmetals
+https://www.curseforge.com/minecraft/mc-mods/this-rocks
+https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric
+https://www.curseforge.com/minecraft/mc-mods/spatial-harvesters-fabric
+https://www.curseforge.com/minecraft/mc-mods/enhancedquarries
+https://www.curseforge.com/minecraft/mc-mods/croptosis
+https://www.curseforge.com/minecraft/mc-mods/croparia
