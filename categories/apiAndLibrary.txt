@@ -24,3 +24,17 @@ https://www.curseforge.com/minecraft/mc-mods/collective-fabric
 https://www.curseforge.com/minecraft/mc-mods/fabric-api
 https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
 https://www.curseforge.com/minecraft/mc-mods/balm-fabric
+https://www.curseforge.com/minecraft/mc-mods/ninjaphenixs-container-library
+https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+https://www.curseforge.com/minecraft/mc-mods/pehkui
+https://www.curseforge.com/minecraft/mc-mods/dashloader
+https://www.curseforge.com/minecraft/mc-mods/cloth-config
+https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric
+https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
+https://www.curseforge.com/minecraft/mc-mods/dawn
+https://www.curseforge.com/minecraft/mc-mods/geckolib
+https://www.curseforge.com/minecraft/mc-mods/libblockattributes
+https://www.curseforge.com/minecraft/mc-mods/impersonate
+https://www.curseforge.com/minecraft/mc-mods/kambrik
+https://www.curseforge.com/minecraft/mc-mods/continuity
+https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric
